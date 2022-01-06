@@ -1,16 +1,26 @@
 body{    
-    font-family: 'Source Serif Pro', serif;
+    font-family: 'Merriweather', serif;
 }
 h1{
     font-size: 60px;
+    line-height: 25px;
 }
-#first-heading{
-    margin-bottom: 10px;
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+h3{
+    font-size: 35px;
+    line-height: 15px;
+
+}
+h4{
+    font-size: 25px;    
 }
 #big-heading{
-    border-left: 5x solid;
-    border-image: linear-gradient(tomato,yellow);
-    border-image-slice: 1;
+    border-left: 5px solid crimson;
+    border-radius: 5px;
+    padding-left: 10px;
 }
 .flex-container{
     display: flex;
@@ -22,23 +32,22 @@ h1{
 .half-width img{
     width: 60%;
 }
+p{
+    margin-bottom: 30px;
+}
 .link-button{
     text-decoration: none;
     padding: 10px 40px;
     background-image: linear-gradient(tomato,salmon);
-    border-radius: 5px;
+    border-radius: 5px;     
 }
 .orange-color{
     color: orange;
 }
-h2{
-    font-size: 45px;
-    text-align: center;
-}
 .mission-vision-goals{    
     display: flex;    
-    padding-left: 10px;
-    padding-right: 10px;   
+    margin-left: 140px;
+    margin-right: 140px;  
 }
 .trio-width{
     width: 80%;   
@@ -67,9 +76,6 @@ h2{
 section{
     margin-bottom: 100px;
 }
-h3{
-    font-size: 30px;
-}
 #community{
     padding-left: 10%;
     width: 60%;
@@ -83,9 +89,7 @@ footer{
     background-color: black;
     
 }
-h4{
-    font-size: 25px;    
-}
+
 .white-color{
     color: white;
 }
