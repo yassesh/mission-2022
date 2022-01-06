@@ -78,3 +78,20 @@ h3{
     width: 50%;
     margin-right: 10%;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    
+}
+h4{
+    font-size: 25px;    
+}
+.white-color{
+    color: white;
+}
+.pink-color{
+    color: palevioletred;
+}
+#experience{
+    padding-right: 10%;
+}
