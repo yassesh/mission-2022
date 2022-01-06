@@ -1,0 +1,33 @@
+body{    
+    font-family: 'Source Serif Pro', serif;
+}
+h1{
+    font-size: 50px;
+}
+#first-heading{
+    margin-bottom: 10px;
+}
+#big-heading{
+    border-left: 5x solid;
+    border-image: linear-gradient(tomato,yellow);
+    border-image-slice: 1;
+}
+.stay-focused{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato,salmon);
+    border-radius: 5px;
+}
+.orange-color{
+    color: orange;
+}
