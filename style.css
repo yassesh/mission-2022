@@ -2,7 +2,7 @@ body{
     font-family: 'Source Serif Pro', serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 #first-heading{
     margin-bottom: 10px;
@@ -30,4 +30,24 @@ h1{
 }
 .orange-color{
     color: orange;
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+.mission-vision-goals{    
+    display: flex;
+    
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+.trio-width{
+    width: 80%;   
+    background-color: plum;
+    border-radius: 10px;
+    padding: 2%;
+    margin-right: 20px;    
+}
+.trio-width img{
+    width: 40%;
 }
