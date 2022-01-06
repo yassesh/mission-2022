@@ -37,7 +37,7 @@ p{
 }
 .link-button{
     text-decoration: none;
-    padding: 10px 40px;
+    padding: 10px 20px;
     background-image: linear-gradient(tomato,salmon);
     border-radius: 5px;     
 }
@@ -51,7 +51,7 @@ p{
 }
 .trio-width{
     width: 80%;   
-    background-color: plum;
+    background-color: rgb(245, 215, 245);
     border-radius: 10px;
     padding: 2%;
     margin-right: 20px;    
@@ -86,7 +86,7 @@ section{
 }
 footer{
     text-align: center;
-    background-color: black;
+    background-color: rgb(17, 15, 15);
     
 }
 
