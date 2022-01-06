@@ -53,17 +53,28 @@ h2{
 .fourty-width{
     width: 40%;
     padding-left: 10%;
+    
 }
 .fourty-width img{
-    width: 70%;
+    width: 90%;
 }
 .sixty-width{
-    width: 60%;
+    width: 60%;    
+}
+#develop{
+    padding-right: 10%;
 }
 section{
     margin-bottom: 100px;
 }
 h3{
     font-size: 30px;
-    font-weight: 500;
+}
+#community{
+    padding-left: 10%;
+    width: 60%;
+}
+#project-img{
+    width: 50%;
+    margin-right: 10%;
 }
